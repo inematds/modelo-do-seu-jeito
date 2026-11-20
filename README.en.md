@@ -1,5 +1,7 @@
 # Model Your Way
 
+🎬 Vídeo: https://www.youtube.com/watch?v=3U8jk69yt3M
+
 [![Model Your Way](guia/assets/banner-en.jpg)](https://inematds.github.io/modelo-do-seu-jeito/guia/en/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**

@@ -1,5 +1,7 @@
 # Modelo a Tu Manera
 
+🎬 Vídeo: https://www.youtube.com/watch?v=3U8jk69yt3M
+
 [![Modelo a Tu Manera](guia/assets/banner-es.jpg)](https://inematds.github.io/modelo-do-seu-jeito/guia/es/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**

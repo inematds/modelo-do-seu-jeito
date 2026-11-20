@@ -1,5 +1,7 @@
 # Modelo do Seu Jeito
 
+🎬 Vídeo: https://www.youtube.com/watch?v=3U8jk69yt3M
+
 [![Modelo do Seu Jeito](guia/assets/banner.jpg)](https://inematds.github.io/modelo-do-seu-jeito/guia/)
 
 **🇧🇷 [Português](README.md) · 🇺🇸 [English](README.en.md) · 🇪🇸 [Español](README.es.md)**
